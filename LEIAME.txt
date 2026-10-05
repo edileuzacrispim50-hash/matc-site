@@ -1,0 +1,17 @@
+MATC Serviços e Consultoria - Landing page
+
+ESTRUTURA
+index.html            página principal
+css/style.css         estilos
+js/main.js            scripts (menu, animações, cards e link do WhatsApp)
+images/               logo, foto do hero e favicon
+
+COMO PUBLICAR
+Envie todo o conteúdo desta pasta para a raiz do seu servidor/hospedagem
+(cPanel, Netlify, Vercel, GitHub Pages etc.), mantendo as pastas.
+
+COMO EDITAR
+- WhatsApp: no início de js/main.js (WHATSAPP_NUMBER e WHATSAPP_MSG).
+- Serviços e contabilidade: listas "svc" e "acc" em js/main.js.
+- Cores: variáveis no início de css/style.css.
+- Fonte Poppins carregada do Google Fonts (precisa de internet).
